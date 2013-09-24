@@ -15,7 +15,7 @@ the key/value pairs generated from the first MapReduce. The Map
 outputs the URL as the key and the IP as the value. In the second
 MapReduce, sort is required and no reduce stage is required.
 
-GPU 8737.426000ms
+GPU 8.737426s
 CPU 0.960000s
 
 
